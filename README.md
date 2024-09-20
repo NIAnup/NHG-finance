@@ -1,6 +1,6 @@
 # nhg_finance_app
 
-Finace App
+Finance App
 
 ## Getting Started
 
